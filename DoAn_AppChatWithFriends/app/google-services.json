@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "39380385937",
+    "firebase_url": "https://appchatwithfriends-default-rtdb.firebaseio.com",
+    "project_id": "appchatwithfriends",
+    "storage_bucket": "appchatwithfriends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39380385937:android:41c4b1e03a4f4cc7f8ff30",
+        "android_client_info": {
+          "package_name": "com.example.appchatwithfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39380385937-ag1m31fumh4gmo1rv1kboilidslq8tbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9uBvtdEekw58kEpevQmZ65nrJz6vua_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39380385937-ag1m31fumh4gmo1rv1kboilidslq8tbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39380385937:android:00879894c062c185f8ff30",
+        "android_client_info": {
+          "package_name": "com.example.doan_appchatwithfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39380385937-ag1m31fumh4gmo1rv1kboilidslq8tbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9uBvtdEekw58kEpevQmZ65nrJz6vua_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39380385937-ag1m31fumh4gmo1rv1kboilidslq8tbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39380385937:android:71dd3c854b5440c4f8ff30",
+        "android_client_info": {
+          "package_name": "com.example.doanappchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39380385937-ag1m31fumh4gmo1rv1kboilidslq8tbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9uBvtdEekw58kEpevQmZ65nrJz6vua_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39380385937-ag1m31fumh4gmo1rv1kboilidslq8tbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39380385937:android:9d11c8db7ca46c93f8ff30",
+        "android_client_info": {
+          "package_name": "com.fredrikbogg.android_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39380385937-ag1m31fumh4gmo1rv1kboilidslq8tbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9uBvtdEekw58kEpevQmZ65nrJz6vua_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39380385937-ag1m31fumh4gmo1rv1kboilidslq8tbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">App Chat With Friends</string>
+    <string name="title_chats">Trò chuyện</string>
+    <string name="title_notifications">Thông báo</string>
+    <string name="title_users">Bạn đề xuất</string>
+    <string name="title_settings">Cài đặt</string>
+    <string name="title_profile">Trang cá nhân</string>
+    <string name="title_chat">Trò Chuyện</string>
+    <string name="user_image">Avatar</string>
+    <string name="accept">Chấp nhận</string>
+    <string name="decline">Từ chối</string>
+    <string name="enter_message">Bạn muốn nói gì?</string>
+    <string name="send">Gửi</string>
+    <string name="create_a_new_account">Tạo một tài khoản mới</string>
+    <string name="display_name">Tên</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="create">Tạo tài khoản</string>
+    <string name="login_to_your_account">Đăng nhập</string>
+    <string name="add_friend">Thêm Bạn</string>
+    <string name="remove_friend">Xóa Bạn</string>
+    <string name="accept_friend_request">Chấp nhận lời mời</string>
+    <string name="request_sent">Đã gửi yêu cầu kết bạn</string>
+    <string name="decline_friend_request">Từ chối yêu cầu kết bạn</string>
+    <string name="change_image">Thay đổi ảnh đại diện</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="change_status">Cập nhật trạng thái</string>
+    <string name="create_account">Tạo một tài khoản mới</string>
+    <string name="new_friend_request">Lời mời kết bạn</string>
+    <string name="login">Đăng nhập</string>
+    <string name="welcome_to_quick_chat">App Chat With Friends</string>
+    <string name="login_or_create_an_account_to_get_started">Đăng nhập hoặc tạo tài khoản để bắt đầu cuộc trò chuyện</string>
+    <string name="chat_icon">Chat icon</string>
+</resources>
